@@ -1,6 +1,6 @@
-# Thrilla
+# Surillya
 
-I'm Thrilla, founder of Thrilltechnology Software & Co and the brands associated with it. I'm quite the rookie, ngl, so if you see my repos, expect some horrible and unoptimized coding. But I'm always open to learn, so in such case feel free to open issues in said repositories going over the optimization possible. Would gladly apprechiate it.
+I'm Surillya, founder of Surillya Software & Co and the brands associated with it. I'm quite the rookie, ngl, so if you see my repos, expect some horrible and unoptimized coding. But I'm always open to learn, so in such case feel free to open issues in said repositories going over the optimization possible. Would gladly apprechiate it.
 
 I'm making music, mostly EDM and Alternative, sou you can find it on Spotify or YouTube Music for example.
 
