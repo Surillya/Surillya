@@ -5,3 +5,5 @@ I'm Surillya, founder of Surillya Entertainment and the brands associated with i
 I'm making music, mostly EDM and Alternative, so you can find it on Spotify or YouTube Music for example.
 
 Eh, there's not much more to say about me, I try stuff out even if it's bad, which it is - in about 90% of cases, but why would I let that demotivate me?
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L51NU4EV)
